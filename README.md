@@ -1,1 +1,2 @@
-# University-adivinador
+# Adivinador
+Primer clase de javascript
